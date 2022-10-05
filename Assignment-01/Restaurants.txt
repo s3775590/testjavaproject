@@ -1,0 +1,6 @@
+Burger King,Fast food,$5.00,Funky Burger-$12.00,French Fries-$7.50,Coca Cola-$2.00
+Chicken King,Fast food,$5.00,Chicken Wings-$4.50,Chicken Burger-$11.00,Orange Juice-$3.00,Tomato Juice-$3.50
+Holly Cow,Fast food,$5.50,Big Cheese Burger-$14.00,Satay Beef Burger-$13.00,Ice Tea-$3.00
+Moeders R.,Restaurant,$10.00,Lobster Soup-$25.00,Fish of the Day-$22.00,Mommy's Apple Pie-$8.00,Irish Coffee-$4.50
+Just Salads R.,Restaurant,$6.00,Caesar Salad-$11.00,Veggie Paradise-$12.00,Chick Peas Wrap-$10.00,Coconut Water-$2.50
+Tea House,Cafe,$4.00,Tiramisu-$8.00,Chocolate Mousse-$7.50,Bubble Tea-$4.50,Green Tea-$3.50
